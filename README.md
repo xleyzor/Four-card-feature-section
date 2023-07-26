@@ -9,7 +9,7 @@
 
 <ul>
     <li>
-    Solution URL: <a href="https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-11gyDxfPrI">Click Here!</a>
+    Solution URL: <a href="https://www.frontendmentor.io/solutions/four-card-feature-section-K8tEM2ZOVX">Click Here!</a>
     </li>
     <li>
     Live site URL: <a href="https://four-card-feature-section-one-coral.vercel.app/">Click Here!</a>
